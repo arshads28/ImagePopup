@@ -21,7 +21,7 @@
 
 
      var img=document.createElement("img");
-     img.setAttribute("src", "https://images.hdqwalls.com/download/beautiful-girl-portrait-bn-1080x1920.jpg" );
+     img.setAttribute("src", "abc.jpg" );
         div.appendChild(img)  ;
 
 
@@ -44,7 +44,7 @@
         div.remove();
      }, 900);
 
-  }, 100));
+  }, 300));
 
 
 
